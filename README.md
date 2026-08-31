@@ -17,7 +17,7 @@
 
 ## Overview
 
-The **Enterprise Financial Analytics & AI-Driven Stock Prediction Platform** is an end-to-end financial analytics application that combines **Data Engineering, Business Intelligence, Financial Analytics, Machine Learning, and Interactive Data Visualization** into a single enterprise-grade platform.
+The **FinSight: Financial Analytics & Stock Prediction Platform** is an end-to-end financial analytics application that combines **Data Engineering, Business Intelligence, Financial Analytics, Machine Learning, and Interactive Data Visualization** into a single enterprise-grade platform.
 
 The platform automatically collects real-time market data from Yahoo Finance, performs feature engineering, computes technical indicators, trains machine learning models, generates stock movement predictions, evaluates investment risk, and presents actionable business insights through an interactive Streamlit dashboard.
 
