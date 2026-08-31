@@ -1,4 +1,4 @@
-# Enterprise Financial Analytics & AI-Driven Stock Prediction Platform
+# FinSight: Financial Analytics & Stock Prediction Platform
 
 <div align="center">
 
